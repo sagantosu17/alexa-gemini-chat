@@ -71,9 +71,7 @@ response = client.models.generate_content(
 
 ## ⚠️ 注意
 
-:::note warn
 APIキーは絶対にコードに直接書かないでください
-:::
 
 ---
 
